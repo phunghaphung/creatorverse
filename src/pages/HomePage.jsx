@@ -22,6 +22,7 @@ const HomePage = () => {
 
   return (
     <main className="container" style={{ paddingTop: "28px" }}>
+
       <nav
         style={{
           paddingBottom: "32px",

@@ -34,7 +34,6 @@ The following **additional** features are implemented:
 
 
 ![Video Walkthrough](creatorverse.gif)
-<img src='creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
